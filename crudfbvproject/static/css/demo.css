@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+}
+body{
+  background: url(https://images.outlookindia.com/public/uploads/articles/2020/2/14/RCB-Logo_571_855.jpg);
+  color: blue;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
